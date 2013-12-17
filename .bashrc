@@ -221,4 +221,5 @@
   alias cfiles='cd /cygdrive/c/Users/Shawn/Documents/"C Programs"'
   alias reload='source ~/.bashrc'
   alias sublime='/cygdrive/c/"Program Files"/"Sublime Text 2"/"sublime_text.exe"'
+  eval $(ssh-agent)
 #alias cd=cd_func
